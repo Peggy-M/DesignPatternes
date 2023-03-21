@@ -1,4 +1,4 @@
-package org.example;
+package com.peggy;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
